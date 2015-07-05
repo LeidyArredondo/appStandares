@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/06/2015, 09:13:35 PM
+    Author     : Juan
+*/
+body{
+    background-color:#e2e2e2;
+    margin:0;
+    padding:0;
+    font-family:helvetica Neue;
+    font-weight:lighter
+}
+
+form{
+    //top:none;
+    width:450px;
+    margin:1em auto;
+    height:auto;
+    padding-bottom:1em;
+    min-height:100px;
+    background-color:#fff;
+    overflow:hidden;
+    border-radius:5px
+}
+
+p{
+    font-size:2em;
+    text-align:center;
+    margin-top:20px
+}
+
+input{
+    width:350px;
+    min-height:35px;
+    //margin-left:40px;
+    margin: .3em auto;
+    //margin-top:10px;
+    padding-left:10px;
+    font-size:1.1em;
+    outline:none;
+    border:0;
+    background-color:#dcdcdc;
+    border-radius:5px
+}
+
+.email{
+    margin-bottom:1em
+}
+
+.idCliente{
+    margin-bottom:1.2em
+}
+
+.boton{
+    margin:5px;
+    width:90px;
+    height:40px;
+    outline:none;
+    border:0;
+    background-color:#75b6dc;
+    color:#fff;
+    font-family:helvetica Neue;
+    font-size:1.2em;
+    border-radius:5px;
+    //padding:.5em 1em;
+    margin-right:.3em
+}
+
+section{
+    position: relative;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.volv{
+    margin: 5px;
+    width: 230px;
+    padding: 10px;
+    height:40px;
+    outline:none;
+    border:0;
+    background-color:#75b6dc;
+    color:#fff;
+    font-family:helvetica Neue;
+    font-size:1.2em;
+    border-radius:5px;
+    //padding:.5em 1em;
+    margin-right:.3em
+}
+
+tabla{
+    //top:none;
+    width:450px;
+    margin:1em auto;
+    height:auto;
+    padding-bottom:1em;
+    min-height:100px;
+    background-color:#fff;
+    overflow:hidden;
+    border-radius:5px
+}
